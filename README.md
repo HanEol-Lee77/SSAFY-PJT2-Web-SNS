@@ -1,3 +1,7 @@
+# __SSAFY PJT II 길고양이 관리를 위한 SNS 고양이를 부탁캣__
+
+- 웹앱 시연 동영상 링크: https://drive.google.com/file/d/1hGCRzBO1h0yQhMj7NuqE5x3dddL3nLFE/view?usp=sharing
+
 # __PJT II - This is Frontend Branch__
 
 ## Git 관리 방식
